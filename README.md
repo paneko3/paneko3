@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=5dc392&text=🕊️Jaecheol&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=5dc392&text=Jaecheol🏃‍♂️&fontSize=50&fontColor=ffffff)
 <p align="center">
   Hi! I'm a Full-Stack developer who enjoys challenges and learning. <br />
   ___
@@ -19,10 +19,10 @@
 
 |      Period       |       Category        | Project                                                      |
 | :---------------: | :-------------------: | ------------------------------------------------------------ |
-| 2022.10 - 2022.11 |       App & Web       | [GeekHub]() (배달 드라이버를 위한 업무 자동화 플랫폼)           |
-| 2022.08 - 2022.10 |          Web          | [Miracle Bird]() (블록체인 기반 갓생 챌린지 플랫폼) |
-| 2022.07 - 2022.08 |          Web          | [PAJAMA]() (WebRTC 기술을 활용한 화상 파티룸 서비스) |
-| 2022.05 - 2022.05 |          Web          | [Happy House]() (공공데이터 기반 아파트 거래 정보 및 주변 상권을 분석 서비스) |
+| 2022.10 - 2022.11 |       App & Web       | [GeekHub](https://github.com/paneko3/GeekHub) (배달 드라이버를 위한 업무 자동화 플랫폼)           |
+| 2022.08 - 2022.10 |          Web          | [Miracle Bird](https://github.com/paneko3/Miracle-Bird) (블록체인 기반 갓생 챌린지 플랫폼) |
+| 2022.07 - 2022.08 |          Web          | [PAJAMA](https://github.com/paneko3/PAJAMA) (WebRTC 기술을 활용한 화상 파티룸 서비스) |
+| 2022.05 - 2022.05 |          Web          | [Happy House](https://github.com/paneko3/HappyHouse) (공공데이터 기반 아파트 거래 정보 및 주변 상권을 분석 서비스) |
 
 
 <br />
