@@ -6,7 +6,7 @@
 
 
 
-### :books: Education & Career
+### :books: Experiences & Education 
 
 - Samsung SW Academy For Youth (a.k.a. SSAFY) 7th (2022.01. - 2022.12.)
 - inDJ (LALA Labs) Field Training (2020.06. - 2020.08.)
